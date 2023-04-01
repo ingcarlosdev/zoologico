@@ -14,6 +14,9 @@ public class AnimalDomestico extends Animal implements caracteristicasAnimal{
         return uso;
     }
 
+    
+    
+
     public void setUso(String uso) {
         this.uso = uso;
     }
